@@ -1,6 +1,6 @@
 package com.joysistvi.stage1.day3;
 
-public class Activity_Fontanilla {
+public class Activity1_Fontanilla {
     public static void main(String[] args) {
 
         boolean isHoliday = true;
