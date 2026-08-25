@@ -34,7 +34,7 @@ public class Activity4_If_Fontanilla {
         } else if (choice == 4) {
             System.out.println("You selected Option 4: Exit");
         } else {
-            System.out.println("Invalid choice. Please try again.");
+            System.out.println("Invalid choice. Please try again later.");
         }
     }
 }
