@@ -58,6 +58,7 @@ public class Activity5_Fontanilla {
             //exit
             case 4:
                 System.out.println("Thank you for using Simple ATM. Goodbye! ");
+                break;
 
             default:
                 System.out.println("Choice is not part of the menu. Goodbye!");
