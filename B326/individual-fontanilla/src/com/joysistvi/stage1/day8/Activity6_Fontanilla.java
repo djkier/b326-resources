@@ -8,12 +8,9 @@ public class Activity6_Fontanilla {
 
         String email = "hello@gmail.com";
         String password = "hello1234";
-
         int maxAttempts = 3;
-        boolean isLoggedIn = false;
 
-        //for loop
-        //identify if invalid email or invalid password.
+        //Welcome UI
         System.out.println("============================");
         System.out.println("WELCOME TO JARETHS.COM");
         System.out.println("============================");
@@ -52,24 +49,6 @@ public class Activity6_Fontanilla {
             }
             System.out.println("----------------------------");
 
-
-
         }
-
-//        while (!isLoggedIn) {
-//            System.out.print("Enter email: ");
-//            String loginEmail = scan.nextLine();
-//
-//            System.out.println("Enter password: ");
-//            String loginPass = scan.nextLine();
-//
-//            if (loginEmail.equals(email) && loginPass.equals(password)) {
-//                System.out.println("Login Successfully!");
-//
-//                isLoggedIn = true;
-//            } else {
-//                System.out.println("Invalid Username or Password!");
-//            }
-//        }
     }
 }
