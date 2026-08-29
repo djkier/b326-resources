@@ -15,6 +15,7 @@ public class Activity7_Fontanilla_Part1 {
         System.out.print("Enter a number: ");
         int number = scan.nextInt();
 
+        //Multiplication table
         System.out.println("Multiplication Table of " + number);
         for (int i = 1; i <= 10; i++) {
             int product = number * i;
