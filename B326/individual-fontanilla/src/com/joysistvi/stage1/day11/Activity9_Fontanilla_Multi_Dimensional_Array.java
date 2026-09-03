@@ -55,7 +55,7 @@ public class Activity9_Fontanilla_Multi_Dimensional_Array {
         System.out.println("===============================");
 
         //UI for column head
-        System.out.printf("%-20s", "Student");
+        System.out.printf("%s-20", "Student");
         for (String subjectName : subjectNames) {
             System.out.printf("%-12s", subjectName);
         }
